@@ -135,6 +135,7 @@ http://127.0.0.1:5000
   ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)
 - ISS location feature
 - Sidebar menu
+   ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)
  -planets_query
 - space_missions
 ---
