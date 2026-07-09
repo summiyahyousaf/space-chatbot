@@ -103,7 +103,7 @@ git clone https://github.com/summiyahyousaf/space-chatbot.git
 ### Navigate to the project directory
 
 ```bash
-cd space-ai-chatbot
+cd space-chatbot
 ```
 
 ### Install dependencies
@@ -198,7 +198,7 @@ Provides:
 
 **Summiya Yousaf**
 
-First-year university student passionate about:
+  BSAI student passionate about:
 - Artificial Intelligence
 - Machine Learning
 - Space Technology
@@ -209,7 +209,7 @@ First-year university student passionate about:
 
 Current Version: **v1.0**
 
-This project is actively being improved and expanded with more AI and NLP capabilities.
+This project is continuously evolving, with ongoing enhancements in AI, NLP, and chatbot functionality to improve performance and user experience.
 
 ---
 
