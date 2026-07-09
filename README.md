@@ -128,15 +128,15 @@ http://127.0.0.1:5000
 
 ## 📷 Screenshots
 
-Add screenshots of:
 
 - Main chatbot interface
   ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)
-- Voice input feature
 - NASA APOD response
+  ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)
 - ISS location feature
 - Sidebar menu
-
+ -planets_query
+- space_missions
 ---
 
 ## Learning Objectives
