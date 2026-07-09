@@ -97,7 +97,7 @@ SpaceAI/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/space-ai-chatbot.git
+git clone https://github.com/summiyahyousaf/space-chatbot.git
 ```
 
 ### Navigate to the project directory
