@@ -131,6 +131,7 @@ http://127.0.0.1:5000
 Add screenshots of:
 
 - Main chatbot interface
+  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)
 - Voice input feature
 - NASA APOD response
 - ISS location feature
