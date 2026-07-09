@@ -1,0 +1,57 @@
+{
+  "mercury": {
+    "nickname": "The Swift Planet",
+    "moons": 0,
+    "distance_from_sun": "57.9 million km",
+    "fact": "Mercury is the smallest planet in our Solar System."
+  },
+
+  "venus": {
+    "nickname": "Earth's Twin",
+    "moons": 0,
+    "distance_from_sun": "108.2 million km",
+    "fact": "A day on Venus is longer than its year."
+  },
+
+  "earth": {
+    "nickname": "The Blue Planet",
+    "moons": 1,
+    "distance_from_sun": "149.6 million km",
+    "fact": "Earth is the only known planet that supports life."
+  },
+
+  "mars": {
+    "nickname": "The Red Planet",
+    "moons": 2,
+    "distance_from_sun": "227.9 million km",
+    "fact": "Mars contains Olympus Mons, the tallest volcano in the Solar System."
+  },
+
+  "jupiter": {
+    "nickname": "The Giant Planet",
+    "moons": 95,
+    "distance_from_sun": "778.5 million km",
+    "fact": "Jupiter is the largest planet in our Solar System."
+  },
+
+  "saturn": {
+    "nickname": "The Ringed Planet",
+    "moons": 146,
+    "distance_from_sun": "1.4 billion km",
+    "fact": "Saturn's rings are made mostly of ice particles with some rocky debris."
+  },
+
+  "uranus": {
+    "nickname": "The Sideways Planet",
+    "moons": 28,
+    "distance_from_sun": "2.9 billion km",
+    "fact": "Uranus rotates on its side because it was likely struck by a massive object long ago."
+  },
+
+  "neptune": {
+    "nickname": "The Windy Planet",
+    "moons": 16,
+    "distance_from_sun": "4.5 billion km",
+    "fact": "Neptune has the fastest winds in the Solar System, reaching over 2,000 km/h."
+  }
+}

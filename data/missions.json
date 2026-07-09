@@ -1,0 +1,26 @@
+{
+  "apollo 11": {
+    "year": 1969,
+    "description": "The first mission to land humans on the Moon."
+  },
+
+  "voyager 1": {
+    "year": 1977,
+    "description": "The farthest human-made object from Earth."
+  },
+
+  "voyager 2": {
+    "year": 1977,
+    "description": "The only spacecraft to visit Uranus and Neptune."
+  },
+
+  "james webb telescope": {
+    "year": 2021,
+    "description": "The most powerful space telescope ever built."
+  },
+
+  "perseverance rover": {
+    "year": 2020,
+    "description": "NASA rover currently exploring Mars."
+  }
+}

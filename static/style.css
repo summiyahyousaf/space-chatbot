@@ -1,0 +1,348 @@
+/* ================= BODY ================= */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+
+    background-image: url("https://images.unsplash.com/photo-1462331940025-496dfbfc7564");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: white;
+}
+
+
+/* MAIN CONTAINER  */
+
+.container {
+    width: 1200px;
+    margin: 40px auto;
+
+    background: rgba(0, 0, 0, 0.75);
+
+    border-radius: 20px;
+
+    padding: 20px;
+
+    box-shadow: 0 0 25px black;
+
+    backdrop-filter: blur(10px);
+}
+
+
+/*  TITLE  */
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+/*  CHAT BOX  */
+
+#chat-box {
+    height: 500px;
+
+    overflow-y: auto;
+
+    padding: 15px;
+
+    border-radius: 15px;
+
+    background: rgba(255, 255, 255, 0.05);
+
+    margin-bottom: 20px;
+}
+
+
+/* USER MESSAGE  */
+
+.user {
+    text-align: right;
+    margin: 15px 0;
+}
+
+.user-message {
+    display: inline-block;
+
+    background: #6e6d9e;
+
+    padding: 12px 15px;
+
+    border-radius: 15px;
+
+    max-width: 70%;
+
+    word-wrap: break-word;
+}
+
+
+/*BOT MESSAGE */
+
+.bot {
+    text-align: left;
+    margin: 15px 0;
+}
+
+.bot-message {
+    display: inline-block;
+
+    background: #6a6f74;
+
+    padding: 12px 15px;
+
+    border-radius: 15px;
+
+    max-width: 70%;
+
+    word-wrap: break-word;
+}
+
+
+/*  INPUT AREA */
+
+.input-area {
+    display: flex;
+    gap: 10px;
+}
+
+
+/*  INPUT FIELD  */
+
+input {
+    flex: 1;
+
+    padding: 15px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    font-size: 16px;
+
+    outline: none;
+}
+
+
+/*SEND BUTTON */
+
+button {
+    padding: 15px 25px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+    transition: 0.3s;
+}
+
+
+/*  SEND BUTTON HOVER */
+
+button:hover {
+    transform: scale(1.05);
+}
+
+
+/*  MICROPHONE BUTTON  */
+
+#mic-btn {
+    background: #403e3c;
+    color: rgb(141, 125, 125);
+}
+
+#mic-btn:hover {
+    background: #201b1f;
+}
+
+
+/*  SEND BUTTON */
+
+.input-area button:last-child {
+    background: #4CAF50;
+    color: white;
+}
+
+.input-area button:last-child:hover {
+    background: #43a047;
+}
+
+
+/*  ANIMATIONS */
+
+.user,
+.bot {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+/* MENU BUTTON*/
+
+.menu-btn {
+    position: fixed;
+
+    top: 20px;
+    left: 20px;
+
+    width: 55px;
+    height: 55px;
+
+    font-size: 30px;
+
+    background: rgba(0, 0, 0, 0.8);
+
+    color: white;
+
+    border: none;
+
+    border-radius: 12px;
+
+    cursor: pointer;
+
+    z-index: 1001;
+}
+
+.menu-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+
+/* SIDEBAR */
+
+.sidebar {
+    position: fixed;
+
+    top: 0;
+    left: -280px;
+
+    width: 260px;
+    height: 100%;
+
+    background: rgba(0, 0, 0, 0.95);
+
+    transition: left 0.3s ease;
+
+    padding-top: 80px;
+
+    z-index: 1000;
+
+    box-shadow: 5px 0 20px rgba(0, 0, 0, 0.7);
+}
+
+.sidebar.active {
+    left: 0;
+}
+
+
+/*  SIDEBAR TITLE  */
+
+.sidebar-title {
+    text-align: center;
+
+    color: white;
+
+    margin-bottom: 30px;
+
+    font-size: 24px;
+}
+
+
+/* MENU ITEMS  */
+
+.menu-item {
+    width: 100%;
+
+    padding: 18px 25px;
+
+    background: transparent;
+
+    border: none;
+
+    color: white;
+
+    text-align: left;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+.menu-item:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+
+/*  SCROLLBAR  */
+
+#chat-box::-webkit-scrollbar {
+    width: 8px;
+}
+
+#chat-box::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.1);
+}
+
+#chat-box::-webkit-scrollbar-thumb {
+    background: #1e88e5;
+    border-radius: 10px;
+}
+
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 900px) {
+
+    .container {
+        width: 90%;
+    }
+
+    .menu-btn {
+        top: 15px;
+        left: 15px;
+    }
+}
+
+.history-list{
+
+    margin-top:20px;
+    max-height:350px;
+    overflow-y:auto;
+
+}
+
+.history-item{
+
+    padding:10px;
+    margin-bottom:10px;
+    border-radius:10px;
+    cursor:pointer;
+    background:rgba(255,255,255,0.08);
+
+}
+
+.history-item:hover{
+
+    background:rgba(255,255,255,0.18);
+
+}

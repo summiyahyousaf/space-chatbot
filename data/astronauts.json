@@ -1,0 +1,31 @@
+{
+  "neil armstrong": {
+    "country": "United States",
+    "achievement": "First human to walk on the Moon.",
+    "mission": "Apollo 11"
+  },
+
+  "buzz aldrin": {
+    "country": "United States",
+    "achievement": "Second human to walk on the Moon.",
+    "mission": "Apollo 11"
+  },
+
+  "yuri gagarin": {
+    "country": "Soviet Union",
+    "achievement": "First human in space.",
+    "mission": "Vostok 1"
+  },
+
+  "valentina tereshkova": {
+    "country": "Soviet Union",
+    "achievement": "First woman in space.",
+    "mission": "Vostok 6"
+  },
+
+  "sally ride": {
+    "country": "United States",
+    "achievement": "First American woman in space.",
+    "mission": "STS-7"
+  }
+}

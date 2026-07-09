@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SpaceAI Chatbot</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+    <!-- Menu Button -->
+    <button id="menu-btn" class="menu-btn">
+        ☰
+    </button>
+
+    <!-- Sidebar -->
+    <div id="sidebar" class="sidebar">
+
+        <h2 class="sidebar-title">🚀 SpaceAI</h2>
+
+        <button class="menu-item" id="new-chat-btn">
+            ➕ New Chat
+        </button>
+
+        <button class="menu-item" id="history-btn">
+            📜 Chat History
+        </button>
+
+        <button class="menu-item" id="search-btn">
+            🔍 Search Chats
+        </button>
+
+        <button class="menu-item" id="signin-btn">
+            👤 Sign In
+        </button>
+
+        <button class="menu-item" id="settings-btn">
+            ⚙️ Settings
+        </button>
+
+        <hr>
+
+        <!-- Chat History -->
+        <div id="history-list" class="history-list">
+
+            <h3>Recent Chats</h3>
+
+            <!-- JavaScript will insert history here -->
+
+        </div>
+
+    </div>
+
+    <!-- Main Chat Area -->
+    <div class="container">
+
+        <h1>🚀 SpaceAI ~ Ready to dive in?</h1>
+
+        <div id="chat-box"></div>
+
+        <div class="input-area">
+
+            <input
+                type="text"
+                id="user-input"
+                placeholder="Ask me about planets, astronauts, NASA...">
+
+            <!-- Voice -->
+            <button id="mic-btn" title="Voice Input">
+                🎙️
+            </button>
+
+            <!-- Send -->
+            <button onclick="sendMessage()">
+                Send
+            </button>
+
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
