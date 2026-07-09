@@ -136,8 +136,8 @@ http://127.0.0.1:5000
 - ISS location feature
 - Sidebar menu
    ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)
- -planets_query
 - space_missions
+![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/space_missions.png?raw=true)
 ---
 
 ## Learning Objectives
