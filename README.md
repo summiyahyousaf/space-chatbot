@@ -167,7 +167,7 @@ https://youtu.be/VxKg-zlevcA
 
 - Main chatbot interface
  
-  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)7<img src="screenshots/main-interface.png" alt="Main Interface" width="800">
+ <img src="screenshots/main-interface.png" alt="Main Interface" width="800">
 - NASA APOD response
   
   ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)<img src="screenshots/NASA_pictureoftheday.png" alt="NASA APOD" width="800">
