@@ -4,6 +4,17 @@ An interactive AI-powered chatbot built using Python, Flask, HTML, CSS, and Java
 
 This project was developed as a learning project to explore APIs, web development, backend programming, and AI chatbot development.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+
+![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features
 
