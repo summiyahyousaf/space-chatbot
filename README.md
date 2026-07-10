@@ -1,9 +1,5 @@
 # Space AI Chatbot
 
-An interactive AI-powered chatbot built using Python, Flask, HTML, CSS, and JavaScript that helps users explore space-related topics including planets, astronauts, NASA missions, ISS tracking, and SpaceX launches.
-
-This project was developed as a learning project to explore APIs, web development, backend programming, and AI chatbot development.
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 
 ![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
@@ -16,13 +12,19 @@ This project was developed as a learning project to explore APIs, web developmen
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+An interactive AI-powered chatbot built using Python, Flask, HTML, CSS, and JavaScript that helps users explore space-related topics including planets, astronauts, NASA missions, ISS tracking, and SpaceX launches.
+
+Space AI Chatbot is a Flask-based web application that allows users to explore planets, astronauts, space missions, and live space data through a conversational interface. It integrates multiple public APIs to provide real-time information while offering features such as voice interaction, chat history, and a modern responsive UI.
+
+
 ## Features
 
 ### Planet Information
-- Planet facts
-- Planet nicknames
-- Number of moons
-- Distance from the Sun
+
+-Retrieve facts about all planets
+-Discover planet nicknames
+-View the number of moons
+-Check the distance from the Sun
 
 ### Astronaut Information
 - Information about famous astronauts
@@ -71,7 +73,25 @@ This project was developed as a learning project to explore APIs, web developmen
 - Web Speech API
 - Fetch API
 
----
+## How It Works
+
+User enters a query
+
+↓
+
+Flask receives the request
+
+↓
+
+The chatbot determines whether the request is related to planets, astronauts, NASA APOD, ISS location, or SpaceX missions.
+
+↓
+
+Relevant APIs or local JSON files are used.
+
+↓
+
+A formatted response is displayed in the chat interface.
 
 ##  Project Structure
 
@@ -137,9 +157,9 @@ http://127.0.0.1:5000
 
 ## 🎥 Project Demo
 
-Watch the project demonstration on YouTube:
+Watch a complete walkthrough of the application, including chatbot interaction, live NASA data, ISS tracking, voice features, and SpaceX mission search.
 
-
+▶ Watch Demo
 https://youtu.be/VxKg-zlevcA
 
 ## 📷 Screenshots
@@ -147,19 +167,19 @@ https://youtu.be/VxKg-zlevcA
 
 - Main chatbot interface
  
-  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)
+  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)7<img src="screenshots/main-interface.png" alt="Main Interface" width="800">
 - NASA APOD response
   
-  ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)
-- ISS location feature
+  ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)<img src="screenshots/NASA_pictureoftheday.png" alt="NASA APOD" width="800">
+- ISS Tracker
  
-  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/current_ISS.png?raw=true)
+  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/current_ISS.png?raw=true)<img src="current_ISS.png" alt="ISS Tracker" width="800">
 - Sidebar menu
   
- ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)
-- space_missions
+ ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)<img src="screenshots/menu.png" alt="Menu" width="800">
+- Space Missions
  
-![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/space_missions.png?raw=true)
+![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/space_missions.png?raw=true)<img src="screenshots/space_missions.png" alt="Space Missions" width="800">
 
 
 
@@ -183,38 +203,31 @@ This project was created to learn and practice:
 
 Planned features for future versions:
 
-- Natural Language Processing (NLP)
-- Intent recognition
-- Fuzzy matching for user queries
-- Chat history persistence
-- User authentication and accounts
-- Image upload support
-- Space news integration
-- Additional NASA APIs
-- Mars Rover image support
-- Rocket launch schedules
-- AI-powered question understanding
-- Database integration
-- Machine Learning based response generation
+Improve intent recognition
+
+Store user chat history using a database
+
+Add user authentication
+
+Integrate additional NASA APIs
+
+Improve chatbot responses using NLP techniques
+
+Deploy the application online
 
 ---
 
 ##  APIs Used
 
-### NASA Astronomy Picture of the Day API
-Provides NASA's daily astronomy image.
+### NASA APOD API
+Used to retrieve NASA's Astronomy Picture of the Day.
 
 ### Open Notify API
-Provides:
-- ISS location
-- Current astronauts in space
+
+Used to display the current ISS location and astronauts currently in space.
 
 ### SpaceX API
-Provides:
-- Latest launch information
-- Mission details
-
----
+Used to retrieve mission and launch information.
 
 ##  Author
 
@@ -229,11 +242,13 @@ Provides:
 
 ##  Project Status
 
-Current Version: **v1.0**
+Status:
+Actively maintained
 
-This project is continuously evolving, with ongoing enhancements in AI, NLP, and chatbot functionality to improve performance and user experience.
+Current Version:
+v1.0
 
----
+This project is continuously being improved with additional AI and NLP capabilities.
 
 ##  License
 
