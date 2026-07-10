@@ -164,12 +164,6 @@ https://youtu.be/VxKg-zlevcA
 
 ## 📷 Screenshots
 
-### Main Chatbot Interface
-
-<p align="center">
-  <img src="screenshots/main-interface.png" alt="Main Chatbot Interface" width="800">
-</p>
-
 ### NASA APOD Response
 
 <p align="center">
