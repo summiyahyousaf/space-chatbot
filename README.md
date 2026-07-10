@@ -124,35 +124,34 @@ Open your browser and visit:
 http://127.0.0.1:5000
 ```
 
----
-
-## 📷 Screenshots
-
-
-- Main chatbot interface
-- 
-  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)
-- NASA APOD response
-- 
-  ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)
-- ISS location feature
-- 
-  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/current_ISS.png?raw=true)
-- Sidebar menu
-- 
- ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)
-- space_missions
-- 
-![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/space_missions.png?raw=true)
----
-
-
 ## 🎥 Project Demo
 
 Watch the project demonstration on YouTube:
 
 
 https://youtu.be/VxKg-zlevcA
+
+## 📷 Screenshots
+
+
+- Main chatbot interface
+ 
+  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/interface.png?raw=true)
+- NASA APOD response
+  
+  ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)
+- ISS location feature
+ 
+  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/current_ISS.png?raw=true)
+- Sidebar menu
+  
+ ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)
+- space_missions
+ 
+![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/space_missions.png?raw=true)
+
+
+
 ## Learning Objectives
 
 This project was created to learn and practice:
