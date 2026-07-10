@@ -164,22 +164,35 @@ https://youtu.be/VxKg-zlevcA
 
 ## 📷 Screenshots
 
+### Main Chatbot Interface
 
-- Main chatbot interface
- 
- <img src="screenshots/main-interface.png" alt="Main Interface" width="800">
-- NASA APOD response
-  
-  ![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/NASA_pictureoftheday.png?raw=true)<img src="screenshots/NASA_pictureoftheday.png" alt="NASA APOD" width="800">
-- ISS Tracker
- 
-  ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/current_ISS.png?raw=true)<img src="current_ISS.png" alt="ISS Tracker" width="800">
-- Sidebar menu
-  
- ![image alt](https://github.com/summiyahyousaf/space-chatbot/blob/main/menu.png?raw=true)<img src="screenshots/menu.png" alt="Menu" width="800">
-- Space Missions
- 
-![image alt]( https://github.com/summiyahyousaf/space-chatbot/blob/main/space_missions.png?raw=true)<img src="screenshots/space_missions.png" alt="Space Missions" width="800">
+<p align="center">
+  <img src="screenshots/main-interface.png" alt="Main Chatbot Interface" width="800">
+</p>
+
+### NASA APOD Response
+
+<p align="center">
+  <img src="screenshots/NASA_pictureoftheday.png" alt="NASA APOD Response" width="800">
+</p>
+
+### ISS Tracker
+
+<p align="center">
+  <img src="screenshots/current_ISS.png" alt="ISS Tracker" width="800">
+</p>
+
+### Sidebar Menu
+
+<p align="center">
+  <img src="screenshots/menu.png" alt="Sidebar Menu" width="800">
+</p>
+
+### Space Missions
+
+<p align="center">
+  <img src="screenshots/space_missions.png" alt="Space Missions" width="800">
+</p>
 
 
 
