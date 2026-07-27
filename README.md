@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="spacebanner.png" width="100%" alt="Space AI Chatbot Banner">
+</p>
+
 # Space AI Chatbot
 ### Intelligent Conversational Assistant for Space Exploration
 
