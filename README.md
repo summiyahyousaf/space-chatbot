@@ -14,6 +14,24 @@ An interactive AI-powered chatbot built using Python, Flask, HTML, CSS, and Java
 
 Space AI Chatbot is a Flask-based web application that allows users to explore planets, astronauts, space missions, and live space data through a conversational interface. It integrates multiple public APIs to provide real-time information while offering features such as voice interaction, chat history, and a modern responsive UI.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Application Workflow](#application-workflow)
+- [System Architecture](#system-architecture)
+- [Project Demo](#project-demo)
+- [Application Screenshots](#application-screenshots)
+- [Machine Learning Pipeline](#machine-learning-pipeline)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Learning Objectives](#learning-objectives)
+- [APIs Used](#apis-used)
+- [Future Improvements](#future-improvements)
+- [Developer](#developer)
+- [License](#license)
 
 ## Features
 
@@ -204,23 +222,6 @@ This project was created to learn and practice:
 
 ---
 
-##  Future Improvements
-
-Planned features for future versions:
-
-Improve intent recognition
-
-Store user chat history using a database
-
-Add user authentication
-
-Integrate additional NASA APIs
-
-Improve chatbot responses using NLP techniques
-
-Deploy the application online
-
----
 
 ##  APIs Used
 
@@ -234,47 +235,15 @@ Deploy the application online
 
 # Future Improvements
 
-### Artificial Intelligence
-
-- Integrate Large Language Models (Gemini, OpenAI, or Llama) for more natural conversations.
-- Implement Natural Language Processing (NLP) for better intent recognition.
-- Add Retrieval-Augmented Generation (RAG) using trusted space knowledge sources.
-- Introduce conversation memory for personalized interactions.
-- Support multilingual conversations.
-
-### Space Exploration Features
-
-- Real-time satellite tracking.
-- Upcoming rocket launch notifications.
-- Interactive solar system visualization.
-- Live space weather information.
-- Space news aggregation from NASA and ESA.
-- Astronomy event calendar (meteor showers, eclipses, etc.).
-
-### User Experience
-
-- User authentication and personalized profiles.
-- Save chat history and favorite topics.
-- Dark and light themes.
-- Mobile-responsive interface improvements.
-- Voice commands with improved speech recognition.
-
-### Backend & Deployment
-
-- Migrate from JSON files to PostgreSQL or MongoDB.
-- Docker containerization for deployment.
-- CI/CD pipeline using GitHub Actions.
-- Cloud deployment on Render, Railway, or AWS.
-- REST API documentation using Swagger/OpenAPI.
-
-### Performance & Security
-
-- Response caching for frequently requested API data.
-- API rate limiting and request optimization.
-- Improved error handling and logging.
-- Secure API key management using environment variables.
-- Unit and integration testing for reliability.
-
+- Integrate Large Language Models (Gemini/OpenAI) for more intelligent conversations.
+- Improve intent recognition using NLP techniques.
+- Add conversation memory for personalized interactions.
+- Integrate additional NASA and ESA APIs.
+- Implement user authentication and persistent chat history.
+- Migrate from JSON storage to PostgreSQL or MongoDB.
+- Containerize the application using Docker and deploy to the cloud.
+- Enhance security, logging, and automated testing.
+- 
 ##  Developer
 
 **Summiya Yousaf**
