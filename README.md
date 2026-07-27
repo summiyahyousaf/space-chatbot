@@ -1,16 +1,13 @@
 # Space AI Chatbot
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-
-![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Flask-Web_App-black?style=flat-square&logo=flask" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+</p>
 
 An interactive AI-powered chatbot built using Python, Flask, HTML, CSS, and JavaScript that helps users explore space-related topics including planets, astronauts, NASA missions, ISS tracking, and SpaceX launches.
 
@@ -236,27 +233,31 @@ Used to display the current ISS location and astronauts currently in space.
 ### SpaceX API
 Used to retrieve mission and launch information.
 
-##  Author
+##  Developer
 
 **Summiya Yousaf**
 
-  BSAI student passionate about:
+Bachelor of Science in Artificial Intelligence
+
+Air University Islamabad
+
+### Interests
+
 - Artificial Intelligence
 - Machine Learning
-- Space Technology
+- Healthcare AI
+- NLP
+- Computer Vision
 
----
+### 🔗 Connect with me
 
-##  Project Status
+- GitHub: https://github.com/summiyahyousaf
+- LinkedIn: https://www.linkedin.com/in/summiya-yousaf-24411534a/
+  
+ ##  License
 
-Status:
-Actively maintained
+This project is licensed under the MIT License.
 
-Current Version:
-v1.0
 
-This project is continuously being improved with additional AI and NLP capabilities.
+⭐ If you found this project interesting, consider giving it a star!
 
-##  License
-
-This project is intended for educational and learning purposes.
