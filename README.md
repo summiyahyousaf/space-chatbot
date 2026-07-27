@@ -247,8 +247,9 @@ Air University Islamabad
 
 ### 🔗 Connect with me
 
-- GitHub: github.com/summiyahyousaf
-- LinkedIn: linkedin.com/in/summiya-yousaf-24411534a
+- GitHub: https://github.com/summiyahyousaf
+- LinkedIn: https://www.linkedin.com/in/summiya-yousaf-24411534a/
+  
   
  ##  License
 
