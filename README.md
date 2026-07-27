@@ -129,7 +129,7 @@ The main objectives of this project are:
 | Python Libraries      | Requests, JSON                                            |
 | Development Tools     | VS Code, Git, GitHub                                      |
 
-## How It Works
+## Workflow
 
 User enters a query
 
@@ -515,7 +515,7 @@ This project was created to learn and practice:
 - Migrate from JSON storage to PostgreSQL or MongoDB.
 - Containerize the application using Docker and deploy to the cloud.
 - Enhance security, logging, and automated testing.
-- 
+  
 ##  Developer
 
 **Summiya Yousaf**
