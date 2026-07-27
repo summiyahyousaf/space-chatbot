@@ -112,6 +112,40 @@ Relevant APIs or local JSON files are used.
 
 A formatted response is displayed in the chat interface.
 
+## 🎥 Project Demo
+
+Watch a complete walkthrough of the application, including chatbot interaction, live NASA data, ISS tracking, voice features, and SpaceX mission search.
+
+▶ Watch Demo
+https://youtu.be/VxKg-zlevcA
+
+## 📷 Screenshots
+
+### NASA APOD Response
+
+<p align="center">
+  <img src="screenshots/NASA_pictureoftheday.png" alt="NASA APOD Response" width="800">
+</p>
+
+### ISS Tracker
+
+<p align="center">
+  <img src="screenshots/current_ISS.png" alt="ISS Tracker" width="800">
+</p>
+
+### Sidebar Menu
+
+<p align="center">
+  <img src="screenshots/menu.png" alt="Sidebar Menu" width="800">
+</p>
+
+### Space Missions
+
+<p align="center">
+  <img src="screenshots/space_missions.png" alt="Space Missions" width="800">
+</p>
+
+
 ## Project Structure
 
 ```text
@@ -174,54 +208,7 @@ python app.py
 http://127.0.0.1:5000
 ```
 
-## 🎥 Project Demo
 
-Watch a complete walkthrough of the application, including chatbot interaction, live NASA data, ISS tracking, voice features, and SpaceX mission search.
-
-▶ Watch Demo
-https://youtu.be/VxKg-zlevcA
-
-## 📷 Screenshots
-
-### NASA APOD Response
-
-<p align="center">
-  <img src="screenshots/NASA_pictureoftheday.png" alt="NASA APOD Response" width="800">
-</p>
-
-### ISS Tracker
-
-<p align="center">
-  <img src="screenshots/current_ISS.png" alt="ISS Tracker" width="800">
-</p>
-
-### Sidebar Menu
-
-<p align="center">
-  <img src="screenshots/menu.png" alt="Sidebar Menu" width="800">
-</p>
-
-### Space Missions
-
-<p align="center">
-  <img src="screenshots/space_missions.png" alt="Space Missions" width="800">
-</p>
-
-
-
-## Learning Objectives
-
-This project was created to learn and practice:
-
-- Python programming
-- Flask web framework
-- REST APIs
-- JSON data handling
-- Frontend and backend integration
-- Asynchronous JavaScript
-- Speech recognition
-- Speech synthesis
-- AI chatbot development principles
 
 ---
 
