@@ -22,15 +22,13 @@ Space AI Chatbot is a Flask-based web application that allows users to explore p
 - [Project Objectives](#project-objectives)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
+- [Project Demo](#-project-demo)
 - [Application Workflow](#application-workflow)
 - [System Architecture](#system-architecture)
-- [Project Demo](#project-demo)
-- [Application Screenshots](#application-screenshots)
-- [Machine Learning Pipeline](#machine-learning-pipeline)
+- [Application Screenshots](#-application-screenshots)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Learning Objectives](#learning-objectives)
-- [APIs Used](#apis-used)
+- [APIs Used](#-apis-used)
 - [Future Improvements](#future-improvements)
 - [Developer](#developer)
 - [License](#license)
@@ -95,7 +93,7 @@ The main objectives of this project are:
 
 ## 🎥 Project Demo
 
-Watch a complete walkthrough of the application, including chatbot interaction, live NASA data, ISS tracking, voice features, and SpaceX mission search.
+Watch the complete project demonstration here:
 
 ▶ Watch Demo
 https://youtu.be/VxKg-zlevcA
@@ -210,9 +208,6 @@ http://127.0.0.1:5000
 
 
 
----
-
-
 ##  APIs Used
 
 | API            | Purpose                      |
@@ -233,7 +228,7 @@ http://127.0.0.1:5000
 - Migrate from JSON storage to PostgreSQL or MongoDB.
 - Containerize the application using Docker and deploy to the cloud.
 - Enhance security, logging, and automated testing.
-- 
+  
 ##  Developer
 
 **Summiya Yousaf**
@@ -252,8 +247,8 @@ Air University Islamabad
 
 ### 🔗 Connect with me
 
-- GitHub: https://github.com/summiyahyousaf
-- LinkedIn: https://www.linkedin.com/in/summiya-yousaf-24411534a/
+- GitHub: github.com/summiyahyousaf
+- LinkedIn: linkedin.com/in/summiya-yousaf-24411534a
   
  ##  License
 
