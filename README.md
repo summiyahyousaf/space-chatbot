@@ -35,43 +35,6 @@ Space AI Chatbot is a Flask-based web application that allows users to explore p
 - [Developer](#developer)
 - [License](#license)
 
-# Space AI Chatbot
-### Intelligent Conversational Assistant for Space Exploration
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Flask-Web_App-black?style=flat-square&logo=flask" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-</p>
-
-# Project Overview
-
-An interactive AI-powered chatbot built using Python, Flask, HTML, CSS, and JavaScript that helps users explore space-related topics including planets, astronauts, NASA missions, ISS tracking, and SpaceX launches.
-
-Space AI Chatbot is a Flask-based web application that allows users to explore planets, astronauts, space missions, and live space data through a conversational interface. It integrates multiple public APIs to provide real-time information while offering features such as voice interaction, chat history, and a modern responsive UI.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Project Objectives](#project-objectives)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Application Workflow](#application-workflow)
-- [System Architecture](#system-architecture)
-- [Project Demo](#project-demo)
-- [Application Screenshots](#application-screenshots)
-- [Machine Learning Pipeline](#machine-learning-pipeline)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Learning Objectives](#learning-objectives)
-- [APIs Used](#apis-used)
-- [Future Improvements](#future-improvements)
-- [Developer](#developer)
-- [License](#license)
-
 # Project Objectives
 
 The main objectives of this project are:
