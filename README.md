@@ -92,25 +92,6 @@ The main objectives of this project are:
 | Python Libraries      | Requests, JSON                                            |
 | Development Tools     | VS Code, Git, GitHub                                      |
 
-## Workflow
-
-User enters a query
-
-↓
-
-Flask receives the request
-
-↓
-
-The chatbot determines whether the request is related to planets, astronauts, NASA APOD, ISS location, or SpaceX missions.
-
-↓
-
-Relevant APIs or local JSON files are used.
-
-↓
-
-A formatted response is displayed in the chat interface.
 
 ## 🎥 Project Demo
 
@@ -146,6 +127,7 @@ https://youtu.be/VxKg-zlevcA
 </p>
 
 
+
 ## Project Structure
 
 ```text
@@ -174,7 +156,25 @@ SpaceAI/
 └── screenshots/
 ```
 
----
+## Workflow
+
+User enters a query
+
+↓
+
+Flask receives the request
+
+↓
+
+The chatbot determines whether the request is related to planets, astronauts, NASA APOD, ISS location, or SpaceX missions.
+
+↓
+
+Relevant APIs or local JSON files are used.
+
+↓
+
+A formatted response is displayed in the chat interface.
 
 ## Installation
 
