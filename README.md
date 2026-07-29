@@ -92,7 +92,7 @@ The main objectives of this project are:
 | Data Storage          | JSON Files                                                |
 | Browser APIs          | Web Speech API, Fetch API                                 |
 | Python Libraries      | Requests, JSON                                            |
-| Development Tools     | VS Code, Git, GitHub                                      |
+| Development Tools     | VS Code, GitHub                                      |
 
 
 ## 🎥 Project Demo
